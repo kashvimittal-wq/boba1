@@ -1,0 +1,9 @@
+img 
+{ width: 350px;
+} 
+body {
+    text-align: center;
+    font-family:"Arial";
+    background:turquoise;
+    color: darkblue;
+}
